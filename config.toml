@@ -1,0 +1,13 @@
+baseURL = "https://blog.edouardmenayde.fr/"
+languageCode = "en-us"
+title = "Edouard Menayde's blog"
+theme = "hyde"
+pygmentsCodeFences=true
+
+[author]
+  name = "Edouard Menayde"
+  url = "https://edouardmenayde.fr/"
+
+[params]
+  themeColor = "theme-base-08"
+  description = "Edouard Menayde's blog, talks about code especially Elixir, Ecto and Phoenix."
