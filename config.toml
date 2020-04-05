@@ -11,3 +11,10 @@ pygmentsCodeFences=true
 [params]
   themeColor = "theme-base-08"
   description = "Edouard Menayde's blog, talks about code especially Elixir, Ecto and Phoenix."
+
+[Menus]
+  main = [
+      {Name = "Professional website", URL = "https://edouardmenayde.fr/"},
+      {Name = "Github", URL = "https://github.com/edouardmenayde/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/edouard-menayde-b17626135/"}
+  ]
