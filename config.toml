@@ -14,7 +14,6 @@ pygmentsCodeFences=true
 
 [Menus]
   main = [
-      {Name = "Professional website", URL = "https://edouardmenayde.fr/"},
       {Name = "Github", URL = "https://github.com/edouardmenayde/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/edouard-menayde-b17626135/"}
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/edouard-menayde/"}
   ]
